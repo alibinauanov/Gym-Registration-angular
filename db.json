@@ -1,0 +1,46 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Alibi",
+      "lastName": "Nauanov",
+      "email": "an3502@nyu.edu",
+      "mobile": 8473298412,
+      "weight": 67,
+      "height": 1.8,
+      "bmi": 20.679012345679013,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-06-13T18:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Hdoiasjdas",
+      "lastName": "nflsdfkn",
+      "email": "alkasdkm@flkfdsmf.com",
+      "mobile": 4324234,
+      "weight": 123,
+      "height": 43444,
+      "bmi": 6.516966692836545e-8,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-06-23T18:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
